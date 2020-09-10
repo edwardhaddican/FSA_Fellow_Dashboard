@@ -1,5 +1,0 @@
-import React from 'react';
-import ReactDom from 'react-dom';
-import MainPage from './components/MainPage';
-
-ReactDom.render(<MainPage />, document.getElementById("app"))
